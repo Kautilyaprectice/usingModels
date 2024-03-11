@@ -1,0 +1,20 @@
+{
+  "name": "servinghtml_css_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ServingHTMLCSSJS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ServingHTMLCSSJS.js",
+    "start-server": "nodemon ServingHTMLCSSJS.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.20.2",
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
